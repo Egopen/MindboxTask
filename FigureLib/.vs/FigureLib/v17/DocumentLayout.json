@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6687ED-BC5C-4752-ABE0-E35FD545320F}|LibTest\\LibTest.csproj|c:\\\u0431\u044D\u043A\\mindboxtask\\figurelib\\libtest\\areacountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6687ED-BC5C-4752-ABE0-E35FD545320F}|LibTest\\LibTest.csproj|solutionrelative:libtest\\areacountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|c:\\\u0431\u044D\u043A\\mindboxtask\\figurelib\\figurespace\\areacounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|solutionrelative:figurespace\\areacounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|c:\\\u0431\u044D\u043A\\mindboxtask\\figurelib\\figurespace\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|solutionrelative:figurespace\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|c:\\\u0431\u044D\u043A\\mindboxtask\\figurelib\\figurespace\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|solutionrelative:figurespace\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|c:\\\u0431\u044D\u043A\\mindboxtask\\figurelib\\figurespace\\figures\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|solutionrelative:figurespace\\figures\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|c:\\\u0431\u044D\u043A\\mindboxtask\\figurelib\\figurespace\\exceptions\\wrongdataforfigureexc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AFAA06-8CB7-490D-8B72-30800EC62C04}|FigureSpace\\FigureLib.csproj|solutionrelative:figurespace\\exceptions\\wrongdataforfigureexc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WrongDataForFigureExc.cs",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Exceptions\\WrongDataForFigureExc.cs",
+              "RelativeDocumentMoniker": "FigureSpace\\Exceptions\\WrongDataForFigureExc.cs",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Exceptions\\WrongDataForFigureExc.cs",
+              "RelativeToolTip": "FigureSpace\\Exceptions\\WrongDataForFigureExc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:40:54.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCounterTests.cs",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\LibTest\\AreaCounterTests.cs",
+              "RelativeDocumentMoniker": "LibTest\\AreaCounterTests.cs",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\LibTest\\AreaCounterTests.cs",
+              "RelativeToolTip": "LibTest\\AreaCounterTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:58:25.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaCounter.cs",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\AreaCounter.cs",
+              "RelativeDocumentMoniker": "FigureSpace\\AreaCounter.cs",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\AreaCounter.cs",
+              "RelativeToolTip": "FigureSpace\\AreaCounter.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:20:23.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Figures\\IFigure.cs",
+              "RelativeDocumentMoniker": "FigureSpace\\Figures\\IFigure.cs",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Figures\\IFigure.cs",
+              "RelativeToolTip": "FigureSpace\\Figures\\IFigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:18:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Figures\\Triangle.cs",
+              "RelativeDocumentMoniker": "FigureSpace\\Figures\\Triangle.cs",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Figures\\Triangle.cs",
+              "RelativeToolTip": "FigureSpace\\Figures\\Triangle.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:01:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Figures\\Circle.cs",
+              "RelativeDocumentMoniker": "FigureSpace\\Figures\\Circle.cs",
+              "ToolTip": "C:\\\u0411\u044D\u043A\\MindboxTask\\FigureLib\\FigureSpace\\Figures\\Circle.cs",
+              "RelativeToolTip": "FigureSpace\\Figures\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:53:32.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

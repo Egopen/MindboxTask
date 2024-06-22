@@ -1,0 +1,12 @@
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\bin\Debug\net8.0\FigureLib.deps.json
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\bin\Debug\net8.0\FigureLib.dll
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\bin\Debug\net8.0\FigureLib.pdb
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\FigureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\FigureLib.AssemblyInfoInputs.cache
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\FigureLib.AssemblyInfo.cs
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\FigureLib.csproj.CoreCompileInputs.cache
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\FigureLib.sourcelink.json
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\FigureLib.dll
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\refint\FigureLib.dll
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\FigureLib.pdb
+C:\Бэк\MindboxTask\FigureLib\FigureSpace\obj\Debug\net8.0\ref\FigureLib.dll

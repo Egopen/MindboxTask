@@ -1,0 +1,11 @@
+C:\Бэк\FigureLib\FigureSpace\bin\Debug\net8.0\FigureArea.deps.json
+C:\Бэк\FigureLib\FigureSpace\bin\Debug\net8.0\FigureArea.dll
+C:\Бэк\FigureLib\FigureSpace\bin\Debug\net8.0\FigureArea.pdb
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\FigureArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\FigureArea.AssemblyInfoInputs.cache
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\FigureArea.AssemblyInfo.cs
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\FigureArea.csproj.CoreCompileInputs.cache
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\FigureArea.dll
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\refint\FigureArea.dll
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\FigureArea.pdb
+C:\Бэк\FigureLib\FigureSpace\obj\Debug\net8.0\ref\FigureArea.dll

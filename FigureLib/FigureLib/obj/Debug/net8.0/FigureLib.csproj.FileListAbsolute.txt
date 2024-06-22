@@ -1,0 +1,14 @@
+C:\Бэк\FigureLib\FigureLib\bin\Debug\net8.0\FigureLib.exe
+C:\Бэк\FigureLib\FigureLib\bin\Debug\net8.0\FigureLib.deps.json
+C:\Бэк\FigureLib\FigureLib\bin\Debug\net8.0\FigureLib.runtimeconfig.json
+C:\Бэк\FigureLib\FigureLib\bin\Debug\net8.0\FigureLib.dll
+C:\Бэк\FigureLib\FigureLib\bin\Debug\net8.0\FigureLib.pdb
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\FigureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\FigureLib.AssemblyInfoInputs.cache
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\FigureLib.AssemblyInfo.cs
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\FigureLib.csproj.CoreCompileInputs.cache
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\FigureLib.dll
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\refint\FigureLib.dll
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\FigureLib.pdb
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\FigureLib.genruntimeconfig.cache
+C:\Бэк\FigureLib\FigureLib\obj\Debug\net8.0\ref\FigureLib.dll
