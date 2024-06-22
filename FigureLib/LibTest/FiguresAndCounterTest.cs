@@ -4,7 +4,7 @@ using FigureSpace;
 
 namespace LibTest
 {
-    public class AreaCounterTests
+    public class FiguresAndCounterTest
     {
         [Fact]
         public void CircleTest()
